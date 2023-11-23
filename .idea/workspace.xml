@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99cc1b0f-4edd-4545-a61b-fac2f2d5ec9e" name="Changes" comment="" />
+    <list default="true" id="99cc1b0f-4edd-4545-a61b-fac2f2d5ec9e" name="Changes" comment="Interface TrackLoader">
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata4/SqliteTrackLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata4/SqliteTrackLoader.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,6 +37,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
@@ -38,6 +50,37 @@
       <option name="presentableId" value="Default" />
       <updated>1700772770130</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1700772822963</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700772822963</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Class Track">
+      <option name="closed" value="true" />
+      <created>1700772898478</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700772898478</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Interface TrackLoader">
+      <option name="closed" value="true" />
+      <created>1700772944205</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700772944205</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <MESSAGE value="Class Track" />
+    <MESSAGE value="Interface TrackLoader" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interface TrackLoader" />
   </component>
 </project>
